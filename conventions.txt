@@ -1,0 +1,65 @@
+Convention for Platform Project:
+
+
+1. Use as much C++ conventions as possible
+
+Purpose of this is to not confuse any current computer science students
+who are currently taking C++ classes.
+
+* These Javascript conventions are introduced in the beginning but not suggested to be used.
+  Students already familiar with these are highly recommended to use them.
+
+  a. Use "" instead of ''
+  b. Use == instead of ===
+
+2. Followings are conventions for js file:
+
+These conventions are not forced nor suggested, but for uniformity and readability.
+
+  a. all conventions mentioned in #1
+  b. double space indentation with no tabs
+  c. all {} brackets are done this way:
+      function name()
+      {
+      }
+  d. put spaces when using operators
+    i.    (a == b)
+    ii.   (x && y)
+    iii.  for(i = 0; i < 10; i++)
+
+3. Use following comment for pointing out new code for the week:
+
+//comment*
+  code;
+//
+
+It's easier to read new materials and new/old codes.
+
+
+4. Use following comment for pointing out challenges
+
+//Challenge*
+  code
+//
+
+  a.Challenge's level can be written with number of '!'. Ex:
+
+  //Challenge!!*
+    code
+  //
+
+  b. These are expectations for each level:
+    i.    level 0 are expected to be completed by next meeting.
+          They are mostly repeatitive and simple.
+          We will not go over these in future meetings. (aka. homework/labwork)
+    ii.   level 1 are future codes that will be shown in future meetings.
+          Whether people do it or not, it will be explained in meeting in future.
+    iii.  level 2 are expected to not show up or work with future code.
+          They are pure purpose is for just playing around with new command lines.
+    iv.   level 3 are not expected to be done by most people.
+          Most likely, level 3 are not going to show up in future code.
+
+
+
+
+
