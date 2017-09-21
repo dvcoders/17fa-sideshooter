@@ -1,5 +1,5 @@
 # SideShooter
-A javascript based 2D platformer shooter game using Phaser for dvcoder (Upload each week)
+A JavaScript based 2D platformer shooter game using Phaser.io for dvcoders. (Upload each week)
 
 # Purpose
 Basic setup code, files, and weekly update will be posted here so that even members who misses a week or so can still follow up.
