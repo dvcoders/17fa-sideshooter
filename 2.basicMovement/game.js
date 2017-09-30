@@ -52,10 +52,6 @@ function create() {
 	floor3.width = 300;
 	floor3.height = 40;
 	floor3.anchor.set(0.5, 0.5);
-	
-	game.physics.enable(floor1, Phaser.Physics.ARCADE);
-	game.physics.enable(floor2, Phaser.Physics.ARCADE);
-	game.physics.enable(floor3, Phaser.Physics.ARCADE);
 
 }//create
 
