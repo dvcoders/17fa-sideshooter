@@ -6,7 +6,9 @@ var PLAYER_SPEED = 5;
 //variables
 var player;
 var floor;
-
+var floor1;
+var floor2;
+var floor3;
 
 // load images and resources
 function preload() {
